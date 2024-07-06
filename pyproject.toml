@@ -1,12 +1,13 @@
 [tool.poetry]
 name = "todo"
 version = "0.1.0"
-description = ""
-authors = ["Alexander Klakovskiy <a.klakovskiy@tinkoff.ru>"]
+description = "Список дел"
+authors = ["Alexander Klakovskiy <a.klakovskiy@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
+rich = "^13.7.1"
 
 
 [build-system]

@@ -2,7 +2,7 @@
 ```bash
 git clone git@github.com:cdjq42/todo.git
 cd todo
-poetry install
+poetry install --no-root
 ```
 
 
